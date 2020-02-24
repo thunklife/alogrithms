@@ -1,2 +1,2 @@
 # alogrithms
-Code for different example from `Alogithms` (the big red book).
+Code for different example from `Algorithms` (the big red book).
